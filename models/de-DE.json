@@ -1,7 +1,7 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "saucen boss",
+            "invocationName": "saucen meister",
             "intents": [
                 {
                     "name": "RecipeIntent",
@@ -231,7 +231,7 @@
                       {
                           "id": "HON",
                           "name": {
-                              "value": "hong senf"
+                              "value": "honig senf"
                           }
                       }
                   ]
