@@ -147,23 +147,19 @@ module.exports = {
     de: {
         'HON': {
             name: `Honig Senf`,
-            instructions: `Platzhalter für Honig-Senf-Sauce.`
-            // instructions: `To make honey mustard, mix mayonnaise, yellow mustard, Dijon mustard, honey, and lemon juice together in a bowl. Cover and chill in the refrigerator overnight.`
+            instructions: `Für eine Honig-Senf-Sauce benötigst Du Mayonaise, scharfen Senf, süßen Senf, und etwas Zitronensaft. Verrühr alles in einer Schüssel, und lass es über Nacht im Kühlschrank ziehen.`
         },
         'BBQ': {
             name: 'BBQ',
-            instructions: `Platzhalter für Barbeque-Sauce.`
-            // instructions: `To make BBQ sauce, combine brown sugar, ketchup, vinegar, and Worcestershire sauce in a blender. Season with salt, pepper, and cayenne pepper. Blend until smooth.`
+            instructions: `Für eine Barbecue-Sauce benötigst Du braunen Zucker, Ketchup, Essig, Woucestersauce, Salz, Pfeffer und Cayenne-Pfeffer. Verrühr alle Zutaten mit einem Mixer, bis die Sauce eine gleichmäßige Konsistenz hat.`
         },
         'RAN': {
             name: `Ranch`,
-            instructions: `Platzhalter für Ranch-Sauce.`
-            // instructions: `For ranch dressing, whisk together mayonnaise, sour cream, chives, parsley, dill, garlic powder, onion powder, salt and pepper in a large bowl. Cover and refrigerate for 30 minutes before serving.`
+            instructions: `Für ein Ranch-Dressing benötigst Du Mayonaise, Schmand, Schnittlauch, Petersilie, Dill, Knoblauchpulver, Zwiebelpulver, Salz und Pfeffer. Verrühr alles in einer großen Schüssel, und lass es vor dem Servieren 30 Minuten ziehen.`
         },
         'CAE': {
             name: `Caesar`,
-            instructions: `Platzhalter für Caesar-Sauce.`
-            // instructions: `For Caesar dressing, combine lemon juice, vinegar, water, shredded parmesan cheese, Dijon mustard, garlic powder and pepper in a jar. Cover with a lid and shake well. Refrigerate until ready to use.`
+            instructions: `Für eine Caesar-Sauce benötigst Du Zitronensaft, Essig, Wasser, geriebenen Parmesan, süßen Senf, Knoblauchpulver und Pfeffer. Verrühr alle Zutaten in einem verschließbaren Schüssel, schüttel es gut durch, und stell es vor dem Servieren kühl.`
         },
         'WOR': {
             name: `Worcestershire`,
