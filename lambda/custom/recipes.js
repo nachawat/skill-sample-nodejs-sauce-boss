@@ -163,33 +163,27 @@ module.exports = {
         },
         'WOR': {
             name: `Worcestershire`,
-            instructions: `Platzhalter für Worcestershire-Sauce.`
-            // instructions: `To make Worcestershire sauce, combine apple cider vinegar, water, soy sauce, brown sugar, mustard powder, onion powder, garlic powder, ground cinnamon, and a pinch of black pepper together in a saucepan; bring to a boil and cook until fragrant, about 45 seconds, then cool to room temperature.`
+            instructions: `Für eine Worcestershire-Sauce benötigst Du Apfelessig, Wasser, Sojasauce, baunen Zucker, Senfpulver, Zwiebelpulver, Knoblauchpulver, gemahlenen Zimt, und eine Prise Pfeffer. Vermenge alles in einer Pfanne, bring es für etwa 45 Sekunden zum Kochen, und dann lass es abkühlen.`
         },
         'THO': {
             name: `Thousand Island`,
-            instructions: `Platzhalter für Thousand-Island-Sauce.`
-            // instructions: `For Thousand Island dressing, mix together mayonnaise, ketchup, sweet pickle relish, salt and pepper in a small bowl until thoroughly combined. Chill and serve.`
+            instructions: `Für ein Thousand-Island-Dressing benötigst Du Mayonaise, Ketchup, Gewürzgurken, süßen Relish, Salz und Pfeffer. Vermische alles in einer kleinen Schüssel, und serviere es gekühlt.`
         },
         'PES': {
             name: `Pesto`,
-            instructions: `Platzhalter für Pesto-Sauce.`
-            // instructions: `To make pesto, combine basil, garlic, Parmesan cheese, olive oil, and pine nuts in a food processor or blender. Blend to a smooth paste. Add parsley if desired.`
+            instructions: `Für eine Pesto-Sauce benötigst Du Basilikum, Knoblauch, Parmesan, Olivenöl und Pinienkerne. Zerkleinere alles in einem Mixer zu einer gleichmäßigen Masse, und gib nach Bedarf Petersilie dazu.`
         },
         'TAR': {
             name: `Tartar`,
-            instructions: `Platzhalter für Tartar-Sauce.`
-            // instructions: `For tartar sauce, combine mayonnaise, chopped onion, sweet pickle relish, salt and pepper in a medium bowl. Mix well and let stand for at least 10 minutes before serving.`
+            instructions: `Für eine Tartar-Sauce benötigst Du Mayonaise, Zwiebelwürfel, süßen Relish, Pfeffer und Salz. Vermische alles in einer mittelgroßen Schüssel, und lass es vor dem Servieren für 30 Minuten ziehen. `
         },
         'PIZ': {
             name: `Pizza`,
-            instructions: `Platzhalter für Pizza-Sauce.`
-            // instructions: `To make pizza sauce, mix together tomato sauce and tomato paste in a medium bowl until smooth. Stir in oregano, dried minced garlic and paprika.`
+            instructions: `Für eine Pizza-Sauce benötigst Du Tomatensauce, Tomatenmark, Oregano, Knoblauchwürfel und Paprika. Vermische alles in einer mittelgroßen Schüssel zu einer gleichmäßigen Masse. `
         },
         'CRA': {
             name: `Cranberry`,
-            instructions: `Platzhalter für Cranberry-Sauce.`
-            // instructions: `For cranberry sauce, dissolve sugar in orange juice in a saucepan over medium heat. Stir in cranberries and cook until they start to pop. Remove from heat and transfer the sauce to a bowl before serving.`
+            instructions: `Für eine Cranberry-Sauce benötigst Du Zucker, Orangensaft und Cranberries. Löse zunächst den Zucker im Orangensaft in einer Pfanne auf mittlerer Hitze auf. Gib dann die Cranberries dazu und koche sie, bis sie sich öffnen. Nimm die Sauce vom Herd und serviere sie abgekühlt in einer Schüssel. `
         },
         'SEC': {
             name: `Secret`,
